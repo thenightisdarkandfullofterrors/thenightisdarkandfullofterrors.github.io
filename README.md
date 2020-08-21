@@ -7,4 +7,7 @@ August 20th, 2020
 
 August 21st, 2020
 1) added about us tab
-2) try to add news feed on front page
+2) added tradingview live quotes
+
+To-do:
+news feed
