@@ -89,6 +89,15 @@
         }
     </script> -->
     <script src="../js/same.js"></script>
+	<script>
+		 window.onmousewheel = function () {
+	if(window.scrollY>50){
+	    document.getElementById("nav").style.display = "none";
+	}else{
+	    document.getElementById("nav").style.display = "block";
+	}
+	}
+	</script>
 </body>
 
 </html>
